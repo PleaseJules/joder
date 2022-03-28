@@ -1,0 +1,26 @@
+img.izquierda
+{
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 50px;
+float: left;
+}
+
+img.derecha 
+{
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 50px;
+float: right;
+}
+
+.lin
+{
+padding:1 em;
+border:1px solid black;
+width:18%;
+height:10%;
+color:#4a69bd;
+font-size:21;
+text-align:center;
+}

@@ -1,0 +1,83 @@
+.enc
+{
+border:1px solid black;
+width:17%;
+height:13%;
+background:#192a56;
+font-family:gadugi;
+font-size:67;
+margin-bottom: 50px;
+text-align: left;
+color:#fad390;
+}
+
+.tit
+{
+border:1px solid black;
+width:17%;
+height:7%;
+text-align:center;
+background:#686de0;
+font-family:gadugi;
+font-size:34;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 30px;
+color:#fad390;
+}
+.gui
+{
+padding:1 em;
+border:1px solid black;
+width:93%;
+height:7%;
+background:#63cdda;
+font-family:gadugi;
+font-size:23;
+margin-bottom: 50px;
+color:#fad390;
+white-space:pre-wrap;
+}
+
+.bod
+{
+padding:1em;
+border:1px solid black;
+width:90%;
+height:14%;
+background:#63cdda;
+color:black;
+font-size:23;
+font-family:century gothic;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 30px;
+}
+
+.tab 
+{
+border:1px solid black;
+font-family: Arial, cursive;
+padding: 20px;
+font-style: italic;
+caption-side: bottom;
+background:#60a3bc;
+color: #0c2461;
+font-size:18;
+text-align: center;
+letter-spacing: 1px;
+}
+
+.pie
+{
+border:1px solid black;
+width:90%;
+height:13%;
+background:#60a3bc;
+color:#dff9fb;
+font-size:13;
+font-family:Microsoft JhengHei UI;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 30px;
+}
